@@ -1,0 +1,2122 @@
+.home-about-light {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-about-light .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 7098px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home-about-light .footer {
+  height: 1264px;
+  left: -3px;
+  position: absolute;
+  top: 5940px;
+  width: 1920px;
+}
+
+.home-about-light .overlap {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/background-1.png);
+  background-size: 100% 100%;
+  height: 495px;
+  left: 3px;
+  position: absolute;
+  top: 42px;
+  width: 1920px;
+}
+
+.home-about-light .overlap-group {
+  height: 505px;
+  left: 271px;
+  position: absolute;
+  top: 97px;
+  width: 1090px;
+}
+
+.home-about-light .overlap-2 {
+  height: 505px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1090px;
+}
+
+.home-about-light .join-oru-community {
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 690px;
+}
+
+.home-about-light .text-wrapper {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 563px;
+}
+
+.home-about-light .become-part-of-a {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 111px;
+  width: 686px;
+}
+
+.home-about-light .group {
+  background-color: #ffffff;
+  border-radius: 40.49px;
+  height: 81px;
+  left: 1009px;
+  position: absolute;
+  top: 145px;
+  width: 81px;
+}
+
+.home-about-light .fill {
+  height: 47px;
+  left: 27px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.home-about-light .path-wrapper {
+  background-color: #ffffff;
+  border-radius: 40.49px;
+  height: 81px;
+  left: 916px;
+  position: absolute;
+  top: 145px;
+  width: 81px;
+}
+
+.home-about-light .path {
+  height: 42px;
+  left: 15px;
+  position: absolute;
+  top: 21px;
+  width: 50px;
+}
+
+.home-about-light .rectangle {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 680px;
+  position: absolute;
+  top: 172px;
+  transform: rotate(90deg);
+  width: 333px;
+}
+
+.home-about-light .overlap-wrapper {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 327px;
+}
+
+.home-about-light .overlap-3 {
+  height: 55px;
+  position: relative;
+  width: 329px;
+}
+
+.home-about-light .overlap-group-wrapper {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.home-about-light .join-discord-wrapper {
+  background-color: #1f2399;
+  border-radius: 30px;
+  height: 55px;
+  position: relative;
+  width: 327px;
+}
+
+.home-about-light .join-discord {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 53px;
+  letter-spacing: 0.75px;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.home-about-light .vector {
+  height: 20px;
+  left: 77px;
+  position: absolute;
+  top: 18px;
+  width: 30px;
+}
+
+.home-about-light .div-wrapper {
+  height: 55px;
+  left: 362px;
+  position: absolute;
+  top: 219px;
+  width: 324px;
+}
+
+.home-about-light .overlap-4 {
+  height: 55px;
+  position: relative;
+  width: 326px;
+}
+
+.home-about-light .group-2 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.home-about-light .join-telegram-wrapper {
+  background-color: #1f2399;
+  border-radius: 30px;
+  height: 55px;
+  position: relative;
+  width: 324px;
+}
+
+.home-about-light .join-telegram {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0.75px;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.home-about-light .img {
+  height: 23px;
+  left: 64px;
+  position: absolute;
+  top: 18px;
+  width: 28px;
+}
+
+.home-about-light .vector-wrapper {
+  background-color: #ffffff;
+  border-radius: 40.49px;
+  height: 81px;
+  left: 1558px;
+  position: absolute;
+  top: 242px;
+  width: 81px;
+}
+
+.home-about-light .vector-2 {
+  height: 37px;
+  left: 14px;
+  position: absolute;
+  top: 24px;
+  width: 53px;
+}
+
+.home-about-light .group-wrapper {
+  background-color: #ffffff;
+  border-radius: 40.49px;
+  height: 81px;
+  left: 1465px;
+  position: absolute;
+  top: 242px;
+  width: 81px;
+}
+
+.home-about-light .group-3 {
+  height: 47px;
+  left: 17px;
+  position: absolute;
+  top: 16px;
+  width: 47px;
+}
+
+.home-about-light .img-wrapper {
+  background-color: #ffffff;
+  border-radius: 40.49px;
+  height: 81px;
+  left: 1373px;
+  position: absolute;
+  top: 242px;
+  width: 81px;
+}
+
+.home-about-light .group-4 {
+  height: 46px;
+  left: 19px;
+  position: absolute;
+  top: 15px;
+  width: 46px;
+}
+
+.home-about-light .overlap-5 {
+  height: 619px;
+  left: 0;
+  position: absolute;
+  top: 537px;
+  width: 1931px;
+}
+
+.home-about-light .footer-2 {
+  height: 619px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1931px;
+}
+
+.home-about-light .overlap-group-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/rectangle-21.svg);
+  background-size: 100% 100%;
+  height: 619px;
+  left: 3px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-about-light .overlap-6 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/background-2.png);
+  background-size: 100% 100%;
+  height: 501px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-about-light .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 253px;
+  left: 1422px;
+  position: absolute;
+  top: 147px;
+  width: 212px;
+}
+
+.home-about-light .text {
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: 211.55px;
+}
+
+.home-about-light .span {
+  color: #049047;
+  font-weight: 700;
+}
+
+.home-about-light .span-2 {
+  color: #ffffff;
+}
+
+.home-about-light .flex-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 291px;
+  left: 1190px;
+  position: absolute;
+  top: 147px;
+  width: 220px;
+}
+
+.home-about-light .text-2 {
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  position: relative;
+  width: 219.57px;
+}
+
+.home-about-light .text-wrapper-2 {
+  color: #049047;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+.home-about-light .text-wrapper-3 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.home-about-light .text-wrapper-4 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home-about-light .copyright {
+  color: #e5e5e5;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 542px;
+  width: 421px;
+}
+
+.home-about-light .text-wrapper-5 {
+  color: #e5e5e5;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home-about-light .text-wrapper-6 {
+  font-weight: 600;
+}
+
+.home-about-light .flex-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 126px;
+  left: 732px;
+  position: absolute;
+  top: 264px;
+  width: 228px;
+}
+
+.home-about-light .span-wrapper {
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  position: relative;
+  width: 228px;
+}
+
+.home-about-light .text-wrapper-7 {
+  color: #049047;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 26px;
+}
+
+.home-about-light .span-3 {
+  color: #ffffff;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  text-decoration: underline;
+}
+
+.home-about-light .flex-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 86px;
+  left: 732px;
+  position: absolute;
+  top: 146px;
+  width: 228px;
+}
+
+.home-about-light .text-3 {
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: 228px;
+}
+
+.home-about-light .text-wrapper-8 {
+  color: #049047;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.home-about-light .span-4 {
+  color: #ffffff;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-decoration: underline;
+}
+
+.home-about-light .TA-finance-white {
+  height: 88px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 353px;
+}
+
+.home-about-light .partner-logos {
+  height: 222px;
+  left: 275px;
+  position: absolute;
+  top: 5619px;
+  width: 1365px;
+}
+
+.home-about-light .text-wrapper-9 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 454px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 459px;
+}
+
+.home-about-light .rectangle-2 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1363px;
+}
+
+.home-about-light .TA-finance {
+  height: 45px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 185px;
+}
+
+.home-about-light .TA-finance-2 {
+  height: 45px;
+  left: 441px;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 185px;
+}
+
+.home-about-light .TA-finance-3 {
+  height: 45px;
+  left: 767px;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 185px;
+}
+
+.home-about-light .TA-finance-4 {
+  height: 45px;
+  left: 1085px;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 185px;
+}
+
+.home-about-light .overlap-7 {
+  height: 2409px;
+  left: -10px;
+  position: absolute;
+  top: 0;
+  width: 1935px;
+}
+
+.home-about-light .group-5 {
+  height: 176px;
+  left: 286px;
+  position: absolute;
+  top: 1597px;
+  width: 1374px;
+}
+
+.home-about-light .overlap-8 {
+  height: 176px;
+  position: relative;
+  width: 1362px;
+}
+
+.home-about-light .rectangle-3 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 362px;
+  position: absolute;
+  top: 86px;
+  transform: rotate(90deg);
+  width: 176px;
+}
+
+.home-about-light .rectangle-4 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 826px;
+  position: absolute;
+  top: 86px;
+  transform: rotate(90deg);
+  width: 176px;
+}
+
+.home-about-light .text-wrapper-10 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  white-space: nowrap;
+  width: 453px;
+}
+
+.home-about-light .text-wrapper-11 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 453px;
+}
+
+.home-about-light .text-wrapper-12 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 452px;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  white-space: nowrap;
+  width: 460px;
+}
+
+.home-about-light .p {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 452px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 460px;
+}
+
+.home-about-light .text-wrapper-13 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 912px;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  white-space: nowrap;
+  width: 450px;
+}
+
+.home-about-light .text-wrapper-14 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 912px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 450px;
+}
+
+.home-about-light .hero-banner {
+  height: 1508px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1935px;
+}
+
+.home-about-light .overlap-9 {
+  height: 1508px;
+  left: 10px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-about-light .trueapex {
+  height: 1210px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-about-light .trueapex-deposit {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: 329px;
+  width: 1920px;
+}
+
+.home-about-light .text-wrapper-15 {
+  font-weight: 700;
+  line-height: 95px;
+}
+
+.home-about-light .text-wrapper-16 {
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.home-about-light .text-wrapper-17 {
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+.home-about-light .vector-3 {
+  height: 538px;
+  left: 0;
+  position: absolute;
+  top: 970px;
+  width: 1920px;
+}
+
+.home-about-light .trueapex-finance-is {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 372px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1144px;
+  width: 586px;
+}
+
+.home-about-light .text-wrapper-18 {
+  font-weight: 800;
+}
+
+.home-about-light .group-6 {
+  height: 75px;
+  left: 817px;
+  position: absolute;
+  top: 595px;
+  width: 297px;
+}
+
+.home-about-light .connect-wallet-wrapper {
+  background: linear-gradient(180deg, rgb(4, 144, 71) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px #00000026;
+  height: 75px;
+  position: relative;
+  width: 295px;
+}
+
+.home-about-light .connect-wallet {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.8px;
+  line-height: 20.6px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 295px;
+}
+
+.home-about-light .animated-elements {
+  height: 1425px;
+  left: 10px;
+  position: absolute;
+  top: 984px;
+  width: 1920px;
+}
+
+.home-about-light .APR-BOX {
+  height: 434px;
+  left: 285px;
+  position: absolute;
+  top: 1818px;
+  width: 1391px;
+}
+
+.home-about-light .overlap-10 {
+  border-radius: 37px;
+  height: 434px;
+  position: relative;
+  width: 1363px;
+}
+
+.home-about-light .group-7 {
+  background: conic-gradient(from 180deg at 50% 50%, rgba(4, 144, 71, 0.13) 12.21deg, rgba(20, 32, 62, 0) 266.78deg);
+  border-radius: 37px;
+  box-shadow: 2px 8px 20px #00000026;
+  height: 434px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1363px;
+}
+
+.home-about-light .overlap-group-3 {
+  height: 353px;
+  position: relative;
+  top: 80px;
+  width: 355px;
+}
+
+.home-about-light .vector-4 {
+  height: 353px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 301px;
+}
+
+.home-about-light .vector-5 {
+  height: 292px;
+  left: 218px;
+  position: absolute;
+  top: 61px;
+  width: 137px;
+}
+
+.home-about-light .bnb {
+  height: 40px;
+  left: 702px;
+  position: absolute;
+  top: 323px;
+  width: 40px;
+}
+
+.home-about-light .clip-path-group {
+  height: 40px;
+  left: 1045px;
+  position: absolute;
+  top: 198px;
+  width: 40px;
+}
+
+.home-about-light .clip-path-group-2 {
+  height: 40px;
+  left: 702px;
+  position: absolute;
+  top: 198px;
+  width: 40px;
+}
+
+.home-about-light .clip-path-group-3 {
+  height: 40px;
+  left: 702px;
+  position: absolute;
+  top: 73px;
+  width: 40px;
+}
+
+.home-about-light .clip-path-group-4 {
+  height: 40px;
+  left: 1045px;
+  position: absolute;
+  top: 73px;
+  width: 40px;
+}
+
+.home-about-light .group-8 {
+  height: 40px;
+  left: 1046px;
+  position: absolute;
+  top: 324px;
+  width: 40px;
+}
+
+.home-about-light .line {
+  height: 416px;
+  left: 1004px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.home-about-light .line-2 {
+  height: 1px;
+  left: 650px;
+  position: absolute;
+  top: 154px;
+  width: 702px;
+}
+
+.home-about-light .line-3 {
+  height: 1px;
+  left: 650px;
+  position: absolute;
+  top: 279px;
+  width: 702px;
+}
+
+.home-about-light .element-TITLE-COPY-sub {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 96px;
+  position: absolute;
+  top: 101px;
+  width: 580px;
+}
+
+.home-about-light .text-wrapper-19 {
+  font-weight: 600;
+  line-height: 95px;
+}
+
+.home-about-light .text-wrapper-20 {
+  font-size: 80px;
+  font-weight: 600;
+  line-height: 95px;
+}
+
+.home-about-light .text-wrapper-21 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 95px;
+}
+
+.home-about-light .text-wrapper-22 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 388px;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  top: 77px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.home-about-light .text-wrapper-23 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 761px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 84px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-24 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 761px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 207px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-25 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 761px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 330px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-26 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 869px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 84px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-27 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 869px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 207px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-28 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 869px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 330px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-29 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1212px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 84px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-30 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1212px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 207px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-31 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1212px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 330px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-32 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 1104px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 84px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-33 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 1104px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 207px;
+  width: 108px;
+}
+
+.home-about-light .text-wrapper-34 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 1104px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 330px;
+  width: 108px;
+}
+
+.home-about-light .menu {
+  height: 96px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.home-about-light .overlap-11 {
+  height: 96px;
+  position: relative;
+  width: 1919px;
+}
+
+.home-about-light .MENU {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1919px;
+}
+
+.home-about-light .overlap-12 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/rectangle-3-1.svg);
+  background-size: 100% 100%;
+  height: 122px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-about-light .text-wrapper-35 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 466px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 83px;
+}
+
+.home-about-light .text-wrapper-36 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 765px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 102px;
+}
+
+.home-about-light .text-wrapper-37 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 617px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 80px;
+}
+
+.home-about-light .text-wrapper-38 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 342px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 56px;
+}
+
+.home-about-light .group-9 {
+  height: 55px;
+  left: 1423px;
+  position: absolute;
+  top: 34px;
+  width: 217px;
+}
+
+.home-about-light .overlap-group-4 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px #00000026;
+  height: 55px;
+  position: relative;
+  width: 215px;
+}
+
+.home-about-light .connect-wallet-2 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.75px;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 215px;
+}
+
+.home-about-light .TA-finance-5 {
+  height: 45px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 185px;
+}
+
+.home-about-light .dark-mode {
+  background-color: #14203e;
+  border-radius: 100px;
+  height: 44px;
+  left: 1663px;
+  position: absolute;
+  top: 40px;
+  width: 91px;
+}
+
+.home-about-light .rectangle-5 {
+  background-color: #ffffff;
+  border-radius: 100px;
+  height: 36px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 37px;
+}
+
+.home-about-light .moon {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 29px;
+  left: 55px;
+  position: absolute;
+  top: 9px;
+  width: 29px;
+}
+
+.home-about-light .star {
+  height: 7px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 8px;
+}
+
+.home-about-light .star-2 {
+  height: 4px;
+  left: 11px;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.home-about-light .star-3 {
+  height: 3px;
+  left: 1px;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.home-about-light .text-wrapper-39 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 883px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+  width: 158px;
+}
+
+.home-about-light .group-10 {
+  height: 34px;
+  left: 1352px;
+  position: absolute;
+  top: 46px;
+  width: 34px;
+}
+
+.home-about-light .group-11 {
+  height: 30px;
+  left: 1290px;
+  position: absolute;
+  top: 50px;
+  width: 36px;
+}
+
+.home-about-light .vector-6 {
+  height: 347px;
+  left: 1198px;
+  position: absolute;
+  top: 1161px;
+  width: 620px;
+}
+
+.home-about-light .tentative-release {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 1262px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 1224px;
+  width: 450px;
+}
+
+.home-about-light .text-wrapper-40 {
+  font-weight: 700;
+}
+
+.home-about-light .text-wrapper-41 {
+  font-weight: 500;
+}
+
+.home-about-light .vector-7 {
+  height: 285px;
+  left: 1198px;
+  position: absolute;
+  top: 1223px;
+  width: 620px;
+}
+
+.home-about-light .governed-by-the {
+  height: 449px;
+  left: 378px;
+  position: absolute;
+  top: 4996px;
+  width: 1161px;
+}
+
+.home-about-light .overlap-13 {
+  height: 449px;
+  position: relative;
+  width: 1151px;
+}
+
+.home-about-light .rectangle-6 {
+  background-color: #14203e05;
+  border-radius: 37px;
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 1151px;
+}
+
+.home-about-light .ellipse {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 256px;
+  position: absolute;
+  top: 198px;
+  width: 74px;
+}
+
+.home-about-light .ellipse-2 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 825px;
+  position: absolute;
+  top: 198px;
+  width: 74px;
+}
+
+.home-about-light .rectangle-7 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 430px;
+  position: absolute;
+  top: 295px;
+  transform: rotate(90deg);
+  width: 304px;
+}
+
+.home-about-light .governed-by-the-2 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 919px;
+}
+
+.home-about-light .text-wrapper-42 {
+  font-weight: 700;
+  line-height: 61.8px;
+}
+
+.home-about-light .text-wrapper-43 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.home-about-light .community-diven-the {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 304px;
+  width: 359px;
+}
+
+.home-about-light .text-wrapper-44 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.3px;
+}
+
+.home-about-light .icon-will-go-here {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 825px;
+  letter-spacing: 0;
+  line-height: 14.2px;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 74px;
+}
+
+.home-about-light .icon-will-go-here-2 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 14.2px;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 74px;
+}
+
+.home-about-light .sub-title-goes-here {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 304px;
+  width: 332px;
+}
+
+.home-about-light .text-wrapper-45 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 61.8px;
+  position: absolute;
+  text-align: center;
+  top: 2849px;
+  width: 1913px;
+}
+
+.home-about-light .overlap-14 {
+  height: 1552px;
+  left: -229px;
+  position: absolute;
+  top: 3283px;
+  width: 2225px;
+}
+
+.home-about-light .about {
+  height: 1462px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 2225px;
+}
+
+.home-about-light .overlap-15 {
+  height: 1462px;
+  left: 229px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-about-light .group-12 {
+  height: 1386px;
+  left: 313px;
+  position: absolute;
+  top: 0;
+  width: 1283px;
+}
+
+.home-about-light .group-13 {
+  height: 424px;
+  left: 1570px;
+  position: absolute;
+  top: 971px;
+  width: 350px;
+}
+
+.home-about-light .group-14 {
+  height: 502px;
+  left: 0;
+  position: absolute;
+  top: 794px;
+  width: 275px;
+}
+
+.home-about-light .group-15 {
+  height: 608px;
+  left: 118px;
+  position: absolute;
+  top: 754px;
+  width: 611px;
+}
+
+.home-about-light .about-2 {
+  height: 504px;
+  left: 275px;
+  position: absolute;
+  top: 958px;
+  width: 1373px;
+}
+
+.home-about-light .overlap-group-5 {
+  background-color: #fafbfb;
+  border-radius: 37px;
+  box-shadow: 2px 8px 20px #00000026;
+  height: 504px;
+  position: relative;
+  width: 1363px;
+}
+
+.home-about-light .overlap-16 {
+  height: 46px;
+  left: 352px;
+  position: absolute;
+  top: 160px;
+  width: 186px;
+}
+
+.home-about-light .text-wrapper-46 {
+  color: #049047;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.home-about-light .vector-8 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 168px;
+}
+
+.home-about-light .overlap-17 {
+  height: 46px;
+  left: 103px;
+  position: absolute;
+  top: 160px;
+  width: 186px;
+}
+
+.home-about-light .text-wrapper-47 {
+  color: #7d8391;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 186px;
+}
+
+.home-about-light .the-birth-of-this {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 264px;
+  width: 508px;
+}
+
+.home-about-light .text-wrapper-48 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.home-about-light .income-while {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 746px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 264px;
+  width: 508px;
+}
+
+.home-about-light .text-wrapper-49 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 61.8px;
+  position: absolute;
+  top: 62px;
+  width: 919px;
+}
+
+.home-about-light .line-4 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 1332px;
+}
+
+.home-about-light .how-can-i-use {
+  height: 761px;
+  left: 719px;
+  position: absolute;
+  top: 0;
+  width: 964px;
+}
+
+.home-about-light .how-can-i-use-2 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 919px;
+}
+
+.home-about-light .overlap-18 {
+  height: 304px;
+  left: 0;
+  position: absolute;
+  top: 142px;
+  width: 938px;
+}
+
+.home-about-light .icon-will-go-here-wrapper {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 92px;
+  position: absolute;
+  top: 34px;
+  width: 74px;
+}
+
+.home-about-light .icon-will-go-here-3 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.2px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 74px;
+}
+
+.home-about-light .overlap-19 {
+  height: 304px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 938px;
+}
+
+.home-about-light .deposit-add {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 244px;
+}
+
+.home-about-light .borrow-borrow-up-to {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 244px;
+}
+
+.home-about-light .convert-swap-any {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 694px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 244px;
+}
+
+.home-about-light .rectangle-8 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 496px;
+  position: absolute;
+  top: 150px;
+  transform: rotate(90deg);
+  width: 304px;
+}
+
+.home-about-light .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 145px;
+  position: absolute;
+  top: 150px;
+  transform: rotate(90deg);
+  width: 304px;
+}
+
+.home-about-light .overlap-20 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 435px;
+  position: absolute;
+  top: 34px;
+  width: 74px;
+}
+
+.home-about-light .overlap-21 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 786px;
+  position: absolute;
+  top: 34px;
+  width: 74px;
+}
+
+.home-about-light .overlap-22 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 92px;
+  position: absolute;
+  top: 509px;
+  width: 74px;
+}
+
+.home-about-light .spend-do-anything {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 612px;
+  width: 244px;
+}
+
+.home-about-light .overlap-23 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 435px;
+  position: absolute;
+  top: 509px;
+  width: 74px;
+}
+
+.home-about-light .autorepay-harvested {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 612px;
+  width: 244px;
+}
+
+.home-about-light .overlap-24 {
+  background-color: #0490473d;
+  border-radius: 37px;
+  height: 74px;
+  left: 786px;
+  position: absolute;
+  top: 509px;
+  width: 74px;
+}
+
+.home-about-light .withdraw-borrow {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 694px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  text-align: center;
+  top: 612px;
+  width: 244px;
+}
+
+.home-about-light .rectangle-10 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 496px;
+  position: absolute;
+  top: 607px;
+  transform: rotate(90deg);
+  width: 304px;
+}
+
+.home-about-light .rectangle-11 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(20, 32, 62, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%);
+  height: 4px;
+  left: 145px;
+  position: absolute;
+  top: 607px;
+  transform: rotate(90deg);
+  width: 304px;
+}
+
+.home-about-light .multiple-ways-to {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 2963px;
+}
+
+.home-about-light .overlap-25 {
+  height: 359px;
+  left: 782px;
+  position: absolute;
+  top: 2428px;
+  width: 349px;
+}
+
+.home-about-light .vector-9 {
+  height: 299px;
+  left: 29px;
+  position: absolute;
+  top: 43px;
+  width: 291px;
+}
+
+.home-about-light .vector-10 {
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.home-about-light .vector-11 {
+  height: 244px;
+  left: 56px;
+  position: absolute;
+  top: 83px;
+  width: 237px;
+}
+
+.home-about-light .vector-12 {
+  height: 187px;
+  left: 84px;
+  position: absolute;
+  top: 121px;
+  width: 182px;
+}
+
+.home-about-light .icon-will-go-here-4 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: 14.2px;
+  position: absolute;
+  text-align: center;
+  top: 225px;
+  width: 74px;
+}
+
+.home-about-light .overlap-26 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/vector-11.svg);
+  background-size: 100% 100%;
+  height: 187px;
+  left: 563px;
+  position: absolute;
+  top: 2549px;
+  width: 182px;
+}
+
+.home-about-light .icon-will-go-here-5 {
+  color: #14203e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 14.2px;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  width: 74px;
+}
+
+.home-about-light .overlap-27 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3b9aae17563824aeec7a976803349901/img/vector-11.svg);
+  background-size: 100% 100%;
+  height: 187px;
+  left: 1169px;
+  position: absolute;
+  top: 2549px;
+  width: 182px;
+}
+
+.home-about-light .polygon {
+  height: 12px;
+  left: 876px;
+  position: absolute;
+  top: 3128px;
+  width: 10px;
+}
+
+.home-about-light .polygon-2 {
+  height: 12px;
+  left: 1022px;
+  position: absolute;
+  top: 3127px;
+  width: 10px;
+}
+
+.home-about-light .ellipse-3 {
+  background-color: #14203e;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 909px;
+  position: absolute;
+  top: 3127px;
+  width: 13px;
+}
+
+.home-about-light .ellipse-4 {
+  background-color: #d9d9d9;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 935px;
+  position: absolute;
+  top: 3127px;
+  width: 13px;
+}
+
+.home-about-light .ellipse-5 {
+  background-color: #d9d9d9;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 961px;
+  position: absolute;
+  top: 3127px;
+  width: 13px;
+}
+
+.home-about-light .ellipse-6 {
+  background-color: #d9d9d9;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 986px;
+  position: absolute;
+  top: 3127px;
+  width: 13px;
+}
